@@ -1,6 +1,6 @@
 <div style="text-align: center;">
 
-### Hi, I'm Arek! 👋
+## Hi, I'm Arek! 👋
 [Linkedin](https://www.twojastrona.com)
 
 ---

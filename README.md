@@ -18,8 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,rider,unity,java,idea,blender,ps)](https://skillicons.dev)
 
 </div>
-
 ---
 
-###Currently working on:
+### Currently working on:
 Japan Platformer (working name)

@@ -1,7 +1,9 @@
 ### Hi, I'm Arek! 👋
 ---
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp&w=256" width="50" height="50">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="50" height="50">
+<div style="display: inline-block;">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-java-60-1174953.png?f=webp&w=256" width="50" height="50">
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_plain_logo_icon_146577.png" width="50" height="50">
+</div>
 I’m currently working on a Unity parkour game with puzzle elements
 <!--
 **malpish0n/malpish0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

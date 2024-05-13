@@ -2,7 +2,7 @@
 
 ## Hi, I'm Arek! 👋
 ---
-I am a beginning unity developer, currently on my second year of computer science.
+### I am a beginning unity developer, currently on my second year of computer science.
 
 ---
 

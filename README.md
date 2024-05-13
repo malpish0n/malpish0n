@@ -7,7 +7,7 @@
 ---
 <div align="center">
 
-### I am a beginning Unity developer and Level designer, currently on my second year of computer science.
+### I am a beginning Unity Developer and Level Designer, currently on my second year of computer science.
 
 </div>
 

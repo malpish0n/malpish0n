@@ -1,7 +1,8 @@
-<center>
-
+<div align="center">
+  
 ## Hi, I'm Arek! 👋
 [Linkedin](https://www.twojastrona.com)
+</div>
 
 ---
 ### I am a beginning unity developer, currently on my second year of computer science.
@@ -11,5 +12,3 @@
 
 ---
 I’m currently working on a Unity parkour game with puzzle elements
-
-</center>

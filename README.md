@@ -22,3 +22,4 @@
 
 ### Currently working on:
 Japan Platformer (working name)
+- Dynamic parkour, puzzle elements

@@ -1,4 +1,4 @@
-### Hi, I'm Arek! 👋
+# Hi, I'm Arek! 👋
 ---
 ## What I can
 

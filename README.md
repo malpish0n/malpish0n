@@ -7,7 +7,7 @@
 ---
 <div align="center">
 
-### I am a beginning Unity Developer and Level Designer as well as 2D Artist, currently on my second year of computer science.
+### I am a beginning Unity Developer and Level Designer as well as a 2D Artist, currently on my second year of computer science.
 
 </div>
 

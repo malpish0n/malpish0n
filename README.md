@@ -1,7 +1,7 @@
 ### Hi, I'm Arek! 👋
 ---
-<img src="https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png" width="100" height="100">)
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOCpr7K5Z8r7bKcwHpyl6R0TzBQyZY3q3MzRjhzKuLQ&s" width="100" height="100">)
+<img src="https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png" width="100" height="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaOCpr7K5Z8r7bKcwHpyl6R0TzBQyZY3q3MzRjhzKuLQ&s" width="100" height="100">
 I’m currently working on a Unity parkour game with puzzle elements
 <!--
 **malpish0n/malpish0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-
+<center>
 ## Hi, I'm Arek! 👋
 [Linkedin](https://www.twojastrona.com)
 
@@ -10,3 +10,4 @@
 
 ---
 I’m currently working on a Unity parkour game with puzzle elements
+</center>

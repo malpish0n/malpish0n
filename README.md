@@ -7,8 +7,8 @@
 ---
 <div align="center">
 
-### I am a beginning Unity Developer and Level Designer as well as a 2D Artist. 
-### Currently on my third year of computer science.
+### 🖥️ Software Developer | Unity Enthusiast  
+### 🎮 Building games and apps while learning from mistakes  
 
 </div>
 

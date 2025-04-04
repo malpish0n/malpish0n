@@ -20,10 +20,3 @@
 
 </div>
 
----
-
-### Currently working on:
-When the Bells Fell Silent
-- Horror
-- 3D
-- Christmas

@@ -15,8 +15,8 @@
 ---
 <div align="center">
   
-### What I can:
-[![My Skills](https://skillicons.dev/icons?i=cs,rider,unity,java,idea,blender,ps)](https://skillicons.dev)
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=cs,rider,unity,java,idea)](https://skillicons.dev)
 
 </div>
 

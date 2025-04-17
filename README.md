@@ -16,7 +16,7 @@
 <div align="center">
   
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=java,cs,unity,git,php,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,unity,git,php,docker,postgres,symfony)](https://skillicons.dev)
 
 </div>
 

@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi, I'm Arek and I'm 21! 👋
+## Hi, I'm Arek and I'm 22! 👋
 [Linkedin](https://www.linkedin.com/in/arkadiusz-kasztelan-943325269/)
 </div>
 

@@ -2,7 +2,8 @@
   
 ## Hi, I'm Arek 👋
 
-[Linkedin](https://www.linkedin.com/in/arkadiusz-kasztelan-943325269/) || akasztelan617@gmail.com
+[Linkedin](https://www.linkedin.com/in/arkadiusz-kasztelan-943325269/)
+akasztelan617@gmail.com
 
 ---
 <div align="center">

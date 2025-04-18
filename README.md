@@ -20,8 +20,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=malpish0n&theme=transparent&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
-![Arek's GitHub stats](https://github-readme-stats.vercel.app/api?username=malpish0n&show_icons=true&theme=tokyonight)
-
 
 </div>
 

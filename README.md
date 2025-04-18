@@ -1,8 +1,12 @@
 <div align="center">
   
 ## Hi, I'm Arek 👋
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Linkedin](https://www.linkedin.com/in/arkadiusz-kasztelan-943325269/)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20" />
+</a> 
 </div>
+
+[Linkedin](https://www.linkedin.com/in/arkadiusz-kasztelan-943325269/)
 
 ---
 <div align="center">

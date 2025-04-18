@@ -2,6 +2,18 @@
   
 ## Hi, I'm Arek 👋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/twoj-profil/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30"/>
+  </a>
+  <a href="https://github.com/malpish0n" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="30"/>
+  </a>
+  <a href="mailto:twojemail@example.com">
+    <img src="https://img.shields.io/badge/Email-2b2d42?style=for-the-badge&logo=gmail&logoColor=white" height="28">
+  </a>
+</p>
+
 [Linkedin](https://www.linkedin.com/in/arkadiusz-kasztelan-943325269/)
 
 ---

@@ -7,7 +7,7 @@
 ---
 <div align="center">
 
-### 🖥️ Software Developer | Unity Enthusiast  
+### 🖥️ Software Developer | Game Enthusiast  
 ### 🎮 Building games and apps while learning from mistakes  
 
 </div>

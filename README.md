@@ -20,6 +20,4 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=malpish0n&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malpish0n&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>

@@ -20,7 +20,4 @@
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=malpish0n&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=malpish0n)
-
-
 </div>

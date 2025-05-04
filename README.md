@@ -8,7 +8,7 @@
 <div align="center">
 
 ### 🖥️ Software Developer | Game Enthusiast  
-### 🎮 Building apps and games while learning from mistakes  
+### 🎮 Building apps and games while learning from my mistakes  
 
 </div>
 

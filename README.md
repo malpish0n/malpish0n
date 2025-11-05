@@ -11,7 +11,7 @@
 ### 🎮 Building apps and games
 ### 🔧 Currently working on: 
 
-### GamerTrials & Google Calendar Notifier
+## GamerTrials & Google Calendar Notifier
 
 </div>
 

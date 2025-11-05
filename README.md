@@ -9,6 +9,7 @@
 
 ### 🖥️ Software Developer | Game Enthusiast  
 ### 🎮 Building apps and games
+### 🔧 Currently working on: GamerTrials && Google Calendar Notifier
 
 </div>
 

@@ -8,7 +8,6 @@
 <div align="center">
 
 ### 🖥️ Software Developer | Game Enthusiast  
-### 🎮 Building apps and games
 
 ### 🔧 Currently working on: 
 

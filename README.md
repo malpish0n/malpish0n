@@ -13,7 +13,7 @@
 
 ### Both developed in Java using Spring Boot and Tournament Manager using React
 
-<img width="1620" height="965" alt="obraz" src="https://github.com/user-attachments/assets/4289aaef-c9c4-4d5d-949d-a1d6be8b4f75" />
+<img width="1621" height="960" alt="obraz" src="https://github.com/user-attachments/assets/fd0960a6-7137-48b1-8801-8dd4e85eee0b" />
 
 </div>
 

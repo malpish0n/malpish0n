@@ -2,8 +2,6 @@
   
 ## Hi, I'm Arek 👋
 
-<img width="1626" height="967" alt="obraz" src="https://github.com/user-attachments/assets/24989061-9187-4209-9e82-68a149c572fe" />
-
 ---
 <div align="center">
 

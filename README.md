@@ -11,7 +11,7 @@
 
 ### 🔧 Currently working on: 
 
-### GamerTrials & Google Calendar Notifier
+### GamerTrials & Tournament Manager
 
 </div>
 

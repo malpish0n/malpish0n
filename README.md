@@ -13,7 +13,7 @@
 
 ### GamerTrials & Tournament Manager
 
-### Both in Java using Spring Boot and Tournament Manager using React
+### Both developed in Java using Spring Boot and Tournament Manager using React
 
 </div>
 

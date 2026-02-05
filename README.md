@@ -2,7 +2,7 @@
   
 ## Hi, I'm Arek 👋
 
-[Linkedin](https://www.linkedin.com/in/arkadiusz-kasztelan-943325269/)  
+<img width="1626" height="967" alt="obraz" src="https://github.com/user-attachments/assets/24989061-9187-4209-9e82-68a149c572fe" />
 
 ---
 <div align="center">

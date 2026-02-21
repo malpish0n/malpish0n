@@ -23,6 +23,6 @@
 ### Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,spring,react,cs,unity,git,php,docker,postgres,symfony)](https://skillicons.dev)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=malpish0n&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=malpish0n&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 </div>

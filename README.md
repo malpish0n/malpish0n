@@ -1,26 +1,22 @@
 <div align="center">
-  
-## Hi, I'm Arek 👋
+
+## Hi, I'm Arek
+
+### Java Backend Developer | Software Engineer
+
+Building backend applications, exploring distributed systems,
+and creating useful developer tools.
 
 ---
-<div align="center">
 
-### 🖥️ Software Developer | Game Enthusiast  
+### Tech Stack
 
-### 🔧 Currently working on: 
-
-### GamerTrials & Tournament Manager
-
-### Both developed in Java using Spring Boot and Tournament Manager using React and JS
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,postgres,docker,git,githubactions,linux,react&theme=dark)](https://skillicons.dev)
 
 ---
-<div align="center">
-  
-### Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,react,cs,unity,git,php,docker,postgres,symfony)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=malpish0n&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+### GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=malpish0n&theme=transparent&hide_border=true)
 
 </div>

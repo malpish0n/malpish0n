@@ -11,7 +11,7 @@ and creating useful developer tools.
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,postgres,docker,git,githubactions,linux,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,postgres,docker,git,linux,python,react&theme=dark)](https://skillicons.dev)
 
 ---
 

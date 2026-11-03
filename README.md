@@ -12,10 +12,4 @@ Building fun projects, backend applications and exploring distributed systems
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,kafka,postgres,docker,git&theme=dark)](https://skillicons.dev)
 
----
-
-### GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=malpish0n&theme=transparent&hide_border=true)
-
 </div>

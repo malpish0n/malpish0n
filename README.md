@@ -4,7 +4,7 @@
 
 ### Java Backend Developer | Software Engineer
 
-Building backend applications, exploring distributed systems,
+Building fun projects, backend applications, exploring distributed systems,
 and creating useful developer tools.
 
 ---
